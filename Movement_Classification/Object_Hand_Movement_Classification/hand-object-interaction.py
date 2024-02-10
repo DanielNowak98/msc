@@ -143,7 +143,7 @@ def run():
     MODEL_PATH = "weights/yolov8x.pt"
     CLASS_LIST_PATH = "utils/coco.txt"
     CONF_THRESHOLD = 0.45
-    MOVEMENT_THRESHOLD = 5
+    MOVEMENT_THRESHOLD = 2
 
     detector = ObjectDetector(MODEL_PATH, CLASS_LIST_PATH, CONF_THRESHOLD, MOVEMENT_THRESHOLD)
 

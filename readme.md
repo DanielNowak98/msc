@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 This scripts contains scripts for classifying body movements using Mediapipe, OpenCV, and LSTM neural networks. The scripts enable the creation of a dataset from video files, training an LSTM model for movement classification, and testing the model on real-time videos.
 
-![Movement_Classification](assets/movement_classification.png)
+![Movement_Classification](assets/movement_classification2.png)
 
 ### Make Dataset Script
 
@@ -68,7 +68,7 @@ python test_lstm.py
 
 This script is for real-time detection of interactions between humans and objects in videos. It utilizes YOLO (You Only Look Once) for object detection and Mediapipe Pose for capturing human poses. The script detects objects, identifies if they are moving, and captures the human pose to determine if they are grasping or interacting with an object.
 
-![Human-Object Interaction Detection](assets/object_hand_interaction.png)
+![Human-Object Interaction Detection](assets/object_hand_interaction2.png)
 
 ### Usage Guide
 
