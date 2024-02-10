@@ -147,7 +147,7 @@ def run():
 
     detector = ObjectDetector(MODEL_PATH, CLASS_LIST_PATH, CONF_THRESHOLD, MOVEMENT_THRESHOLD)
 
-    cap = cv2.VideoCapture("/home/prolab/Schreibtisch/Neue_Masterarbeit/Dataset/Videos_own_Dataset/C0004.MP4")
+    cap = cv2.VideoCapture("/home/prolab/Schreibtisch/Neue_Masterarbeit/Dataset/Videos_own_Dataset/C0028.MP4")
     if not cap.isOpened():
         print("Error: Unable to open video.")
         return

@@ -17,7 +17,7 @@ mpDraw = mp.solutions.drawing_utils
 
 model = tf.keras.models.load_model("/home/prolab/Schreibtisch/Neue_Masterarbeit/Movement_Classification/Body_Movement_Classification/Train/model.h5")
 
-cap = cv2.VideoCapture('/home/prolab/Schreibtisch/Neue_Masterarbeit/Dataset/Videos_own_Dataset/C0004.MP4')
+cap = cv2.VideoCapture('/home/prolab/Schreibtisch/Neue_Masterarbeit/Dataset/Videos_own_Dataset/C0028.MP4')
 
 fps = cap.get(cv2.CAP_PROP_FPS)
 print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
