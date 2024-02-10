@@ -1,6 +1,22 @@
 # Master-Thesis -- "Multimodale Bewegungserkennung"
 ---
 ![Movement_Classification](assets/info.png)
+
+## Getting Started
+
+create venv:
+
+```
+virtualenv venv
+source venv/bin/activate
+```
+
+install requirements:
+
+```
+pip install -r requirements.txt
+```
+
 ---
 ## Body Movement Classification
 
