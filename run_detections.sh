@@ -12,3 +12,4 @@ cd ~/Schreibtisch/Neue_Masterarbeit/Movement_Classification/Object_Hand_Movement
 # Führen Sie das erste Python-Skript aus
 python hand-object-interaction.py
 
+

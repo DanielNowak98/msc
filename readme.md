@@ -17,6 +17,19 @@ install requirements:
 pip install -r requirements.txt
 ```
 
+First you have to make sure to make the Script Excecutable while running: 
+```
+chmod +x combine_data.sh
+chmod +x run_analysis.sh
+chmod +x run_detections.sh
+```
+
+To Excecute and make an MTM-Analysis based on your Video run: 
+
+```
+python main.py
+```
+
 ---
 ## Body Movement Classification
 

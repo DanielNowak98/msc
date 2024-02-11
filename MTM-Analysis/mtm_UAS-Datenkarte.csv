@@ -1,2 +1,3 @@
-Length, TMU, Case, weight, Code, case_of_place
-<20, 20, easy, <1, AA, 0
+Length,TMU,Case,weight,Code,case_of_place
+<20,20,easy,1,AA1,0
+>20,35,easy,1,AA2,0
